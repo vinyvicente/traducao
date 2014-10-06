@@ -2,7 +2,7 @@
 
 ## Resumo:
 
-Tradução para Português do Brasil, mantidade e revisada pela comunidade OpenCart Brasil.
+Tradução para Português do Brasil, mantida e revisada pela comunidade OpenCart Brasil.
 
 ## Dúvidas:
 
